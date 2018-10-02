@@ -1,0 +1,4 @@
+#Tue Oct 02 18:33:51 JST 2018
+base.0=/Users/Sayaka/Unity/VRproject/Temp/gradleOut/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
